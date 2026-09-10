@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+santa_ids.json
+santa_money.json
+santa_data.json
